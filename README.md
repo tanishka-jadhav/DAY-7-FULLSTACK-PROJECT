@@ -1,4 +1,4 @@
-# 🚀 Day 7 – Full Stack Integration & OpenAI API
+# 🚀 Day 7 – Full Stack Integration & OpenAI/groq API
 
 A complete Full Stack application demonstrating the integration of **React**, **Express.js**, **PostgreSQL**, **Prisma ORM**, **React Query**, and **OpenAI API**.
 
@@ -50,7 +50,7 @@ The project demonstrates:
 ## AI
 
 * OpenAI API
-
+or Groq API(free)
 ---
 
 # 🏗 Project Architecture
